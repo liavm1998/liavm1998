@@ -1,6 +1,6 @@
 - 👋 Hi, I’m liav levi
-- 👀 interested in Probabilistic algorithms .
-- 🌱 currently learning B.Sc Computer Science at ariel university.
+- 👀 Interested in Probabilistic algorithms .
+- 🌱 Currently learning B.Sc Computer Science at ariel university.
  
 
 
